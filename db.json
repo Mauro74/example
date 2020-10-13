@@ -1,16 +1,18 @@
 {
-	"header": "This is some header text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor urna, fringilla a dignissim eu, interdum vitae ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-	"footer": "VPM ID: Z4-25677\r\nDate of preparation: July 2020\r\nDate of expiry: July 2021",
-	"references": [{
-			"reference": "Suspendisse diam est, eleifend at rutrum eget, suscipit nec nulla."
-		},
-		{
-			"reference": "Phasellus dapibus tincidunt dolor hendrerit auctor."
-		},
-		{
-			"reference": "Phasellus ut justo lacus."
-		},
-		{
-			"reference": "Phasellus risus tortor, iaculis vel elementum non, pretium feugiat sapien."
-		}]
+  "header": "This is some header text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dolor urna, fringilla a dignissim eu, interdum vitae ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  "footer": "VPM ID: Z4-25677\r\nDate of preparation: July 2020\r\nDate of expiry: July 2021",
+  "references": [
+    {
+      "reference": "Suspendisse diam est, eleifend at rutrum eget, suscipit nec nulla."
+    },
+    {
+      "reference": "Phasellus dapibus tincidunt dolor hendrerit auctor."
+    },
+    {
+      "reference": "Phasellus ut justo lacus."
+    },
+    {
+      "reference": "Phasellus risus tortor, iaculis vel elementum non, pretium feugiat sapien."
+    }
+  ]
 }
